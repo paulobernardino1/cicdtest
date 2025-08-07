@@ -16,6 +16,6 @@ A professional-grade template to kickstart your Node.js + TypeScript projects wi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/nodejs-clean-template.git
+   git clone https://github.com/paulobernardino1/cicdtest
    cd nodejs-clean-template
    ```
